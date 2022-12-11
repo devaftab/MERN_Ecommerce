@@ -7,8 +7,10 @@
     "node": "16.14.1"
   },
   "scripts": {
+
     "start": "node backend/server.js",
     "frontend": "npm start --prefix frontend",
+    "build": "react-scripts build",
     "dev": "concurrently \"npm start\" \"npm run frontend\" "
   },
   "author": "Mohd Aftab",
