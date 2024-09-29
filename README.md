@@ -67,7 +67,7 @@ Include screenshots of different parts of the application (e.g., homepage, produ
 
 ## 🌐 Live Demo
 
-Check out the live demo [here](https://onlineshop-wicb.onrender.com).
+Check out the live demo [here](https://onlineshop-wicb.onrender.com/).
 
 ## 📄 License
 
