@@ -87,14 +87,14 @@ Include screenshots of different parts of the application (e.g., homepage, produ
 
 Check out the live demo [here](https://onlineshop-wicb.onrender.com/).
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🤝 Contribution
 
 Feel free to fork this repository and submit pull requests with improvements. For major changes, please open an issue first to discuss what you'd like to change.
 
 ## 📧 Contact
-
-For any questions or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/devaftab) or email at web.dev.aftab@gmail.com.
+If you have any questions or would like to collaborate, feel free to reach out to me:<br/><br/>
+  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:web.dev.aftab@gamil.com)<br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/devaftab/) <br/>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/devaftab/)
