@@ -38,11 +38,29 @@ A comprehensive e-commerce platform built using the MERN stack (MongoDB, Express
    ```
 
 3. Create a `.env` file in the backend directory with the following environment variables:
-
+   
    ```plaintext
-   MONGO_URI=<Your MongoDB URI>
-   JWT_SECRET=<Your JWT Secret>
-   PAYPAL_CLIENT_ID=<Your PayPal Client ID>
+   PORT = 4000
+   NODE_ENV = Development
+   
+   MONGO_URL=<Your MongoDB URI>
+   JWT_SECRET_KEY=<Your JWT Secret>
+   JWT_EXPIRES = 7d
+   COOKIE_EXPIRE = 7
+   
+   CLOUDINARY_NAME = <Your clodinary name>
+   CLOUDINARY_API_KEY = <Your Cloudinary API Key>
+   CLOUDINARY_SECRET_KEY = <Your Cloudinary Secret Key>
+   
+   STRIPE_SECRET_KEY = <Stripe Id>
+   STRIPE_API_KEY = <Stripe API>
+   
+   SMPT_HOST = smtp.mailtrap.io
+   SMPT_PORT = 2525
+   SMPT_MAIL = smpt_mail_id
+   SMPT_PASSWORD = smpt_password
+   SMPT_MAIL_FROM = your_mail
+   SMPT_MAIL_NAME = your_name
    ```
 
 4. Start the backend server:
